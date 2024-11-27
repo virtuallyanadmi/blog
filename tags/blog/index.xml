@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on </title>
+    <link>/tags/blog/</link>
+    <description>Recent content in Blog on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Hugo blog</title>
+      <link>/posts/first-hugo-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/posts/first-hugo-blog/</guid>
+      <description>&lt;p&gt;So I am finally back to blogging. I decided to start to write down my thoughts, ideas, and share any stories here.&lt;/p&gt;&#xA;&lt;p&gt;I switched to Hugo from Jekyll but you can still find my Jekyll posts at &lt;a href=&#34;https://www.virtuallyanadmin.com/blog&#34; target=&#34;_blank&#34;&gt;https://www.virtuallyanadmin.com/blog&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I am excited to get back to writing and hopefully this will capture words that while I am here.&lt;/p&gt;&#xA;&lt;p&gt;So let&amp;rsquo;s go!&#xA;!&lt;img src=&#34;/images/Pasted%20image%2020241127113309.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
